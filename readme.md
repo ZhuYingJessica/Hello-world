@@ -1,5 +1,5 @@
 ## Mobile_Phone_Defect
-This is a mobile phone defect dataset including seven kinds of mobile phone surface defects:jag, strip pit, dotted pit, screen scratch, cover scratch ,oil stain, spot.
+This is a mobile phone defect dataset including seven kinds of mobile phone surface defects: jag, strip pit, dotted pit, screen scratch, cover scratch ,oil stain, spot.
 
 The dataset is structured in VOC format. 
 
